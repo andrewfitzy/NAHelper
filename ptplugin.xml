@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ptplugin xmlns="http://www.palantirtech.com/schemas/ptplugin/v2.1.0">
+	<uri>com.about80minutes.helpers.na.NumericAnalysisHelper</uri>
+	<displayName>Numeric Analysis Helper</displayName>
+	<version>
+		<major>1</major>
+		<minor>0</minor>
+	</version>
+   <targetVersion>3.11.0</targetVersion>
+	<component>
+		<interface>com.palantir.api.workspace.HelperFactory</interface>
+		<implementation>com.about80minutes.helpers.na.NumericAnalysisHelperFactory</implementation>
+	</component>
+</ptplugin>
