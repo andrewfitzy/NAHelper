@@ -106,7 +106,7 @@ public class NumericAnalysisUtilsTest {
 		List<Float> expected = null;
 		expected = Lists.newArrayList();
 		expected.add(3f);
-		//TODO finish this to compare lists
+		assertEquals(expected, NumericFunctions.getModes(VALUE_LIST));
 	}
 	
 	/**
