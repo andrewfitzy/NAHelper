@@ -1,4 +1,4 @@
-package com.about80minutes.helpers.na;
+package com.about80minutes.palantir.helper.na;
 
 import static org.junit.Assert.assertEquals;
 

@@ -1,4 +1,4 @@
-package com.about80minutes.helpers.na;
+package com.about80minutes.palantir.helper.na;
 
 import java.awt.Dimension;
 
@@ -25,7 +25,7 @@ public class NumericAnalysisHelperFactory extends SafeAbstractHelperFactory {
 				new Integer [] { SwingConstants.HORIZONTAL },
 				new Dimension(330,500),
 				null,
-				"com.about80minutes.helpers.na.NumericAnalysisHelper.NumericAnalysisHelper");
+				"com.about80minutes.palantir.helper.na.NumericAnalysisHelperFactory");
 	}
 
 	/**

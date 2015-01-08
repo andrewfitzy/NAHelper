@@ -1,4 +1,4 @@
-package com.about80minutes.helpers.na;
+package com.about80minutes.palantir.helper.na;
 
 import java.awt.BorderLayout;
 import java.awt.Color;
